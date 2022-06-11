@@ -29,10 +29,10 @@ img{
 .text p{
     font-size: 15px;
     color: hsl(220, 15%, 55%);
-    padding: 0 18px;
+    padding: 0 18px 4px;
 }
 .text h2{
     color: hsl(218, 44%, 22%);
-    margin-top: 0px;
+    margin-top: 2px;
     margin-bottom: 0px;
 }
